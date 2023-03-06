@@ -9,6 +9,6 @@ A medida em que eu for aprendendo ou conhecendo novas linguagens, irei adicionan
 
 
 ## Alguns links gerais uteis:
-- Guia basico para usar markdown para formatacao de texto [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-- Canal oficial do [GitHub](https://www.youtube.com/github) no Youtube
-- [Emojipedia](https://emojipedia.org/) uma biblioteca de emojis para tornar o conteudo das anotacoes mais expressivo
+- Guia basico para usar markdown para formatacao de texto [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
+- Canal oficial do [GitHub](https://www.youtube.com/github) no Youtube.
+- [Emojipedia](https://emojipedia.org/) uma biblioteca de emojis para tornar o conteudo das anotacoes mais expressivo.
