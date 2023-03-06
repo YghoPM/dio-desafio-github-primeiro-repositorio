@@ -2,8 +2,11 @@
 Desafio de Projeto sobre Git/GitHub
 
 Hello World! 😄
-Este é meu primeiro repositório aqui no GitHub!
-Irei documentar com arquivos de anotacoes minha jornada com pesquisa, curiosidades e estudos no mundo da programação!
+
+Minha intenção é criar uma pequena e humilde biblioteca de como exibir a frase : "Hello World 😄!" em diversas linguagens de programação.
+
+A medida em que eu for aprendendo ou conhecendo novas linguagens, irei adicionando novos arquivos com anotações!
+
 
 ## Alguns links gerais uteis:
 - Guia basico para usar markdown para formatacao de texto [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
