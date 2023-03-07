@@ -6,7 +6,9 @@ A primeira versão oficial do Java foi lançada em 1995 e seu criador é James G
 
 A linguagem rapidamente se tornou popular entre os desenvolvedores devido à sua facilidade de uso, portabilidade e segurança. Inclusive em muitos jogos! 
 
-Para exibir "Hello World!" em Java no Visual Studio deve-se criar um novo projeto e digitar o seguinte codigo:
+Para exibir "Hello World!" em Java no Visual Studio existem alguns requisitos. 
+Deve-se ter instalado em seu computador o JDK. 
+Criar um novo projeto e digitar o seguinte codigo:
 
 ```java
 public class HelloWorld {
